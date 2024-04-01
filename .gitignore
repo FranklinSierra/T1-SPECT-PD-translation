@@ -1,0 +1,17 @@
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+
+# Ignore model weights
+*.h5
+*.pkl
+
+# Ignore model embeddings
+*.npy
+
+# Ignore checkpoints
+ckpt*
+
+# Ignore zip files
+*.zip
